@@ -14,3 +14,8 @@ Following modules are required
 `sklearn`
 `LightGBM`
 `XGBoost`
+`hyperopt`
+
+The Analysis of Data and the Notebook can be found in `Titanic Dataset` notebook,
+
+data is found int `titanic(1)`
